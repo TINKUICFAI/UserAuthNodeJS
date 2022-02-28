@@ -101,7 +101,7 @@ function sendMail(user) {
       secure: false,
       auth: {
           user: 'tku22658@gmail.com',
-          pass: 'tinkuDemo@1234?'
+          pass: 'Demo@1234?'
       }
   });
   
